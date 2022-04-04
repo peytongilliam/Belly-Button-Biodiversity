@@ -1,0 +1,23 @@
+.jumbotron h1 {
+    color:tomato
+}
+
+.jumbotron p {
+    color:tomato
+}
+
+.white-text h2 {
+    color: tomato;
+}
+
+.tomato-text p {
+    color: tomato;
+}
+
+.col-md-12 p {
+    color: tomato;
+}
+
+body {
+    background-color: rgb(60, 57, 68);
+}
